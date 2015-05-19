@@ -1,0 +1,7 @@
+C:\Users\MAGS\Documents\Miky\Tareas\6to Semestre\Gráficas por Computadora\Proyecto 3\Proyecto 3 Gráficas\Proyecto 3 Gráficas\bin\Debug\Proyecto 3 Gráficas.exe
+C:\Users\MAGS\Documents\Miky\Tareas\6to Semestre\Gráficas por Computadora\Proyecto 3\Proyecto 3 Gráficas\Proyecto 3 Gráficas\bin\Debug\Proyecto 3 Gráficas.pdb
+C:\Users\MAGS\Documents\Miky\Tareas\6to Semestre\Gráficas por Computadora\Proyecto 3\Proyecto 3 Gráficas\Proyecto 3 Gráficas\obj\x86\Debug\Proyecto_3_Gráficas.menu.resources
+C:\Users\MAGS\Documents\Miky\Tareas\6to Semestre\Gráficas por Computadora\Proyecto 3\Proyecto 3 Gráficas\Proyecto 3 Gráficas\obj\x86\Debug\Proyecto_3_Gráficas.Properties.Resources.resources
+C:\Users\MAGS\Documents\Miky\Tareas\6to Semestre\Gráficas por Computadora\Proyecto 3\Proyecto 3 Gráficas\Proyecto 3 Gráficas\obj\x86\Debug\Proyecto 3 Gráficas.csproj.GenerateResource.Cache
+C:\Users\MAGS\Documents\Miky\Tareas\6to Semestre\Gráficas por Computadora\Proyecto 3\Proyecto 3 Gráficas\Proyecto 3 Gráficas\obj\x86\Debug\Proyecto 3 Gráficas.exe
+C:\Users\MAGS\Documents\Miky\Tareas\6to Semestre\Gráficas por Computadora\Proyecto 3\Proyecto 3 Gráficas\Proyecto 3 Gráficas\obj\x86\Debug\Proyecto 3 Gráficas.pdb
